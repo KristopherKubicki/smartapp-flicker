@@ -9,6 +9,11 @@ I noticed when playing around with low quality LED bulbs, I could get the bulb t
 
 I discovered that by telling a dimmer to transit 59% once a second or so, I could get the bulb to flicker in a somewhat random fashion.  It is not as nice as a gaslamp, which has a very neat physical flickering property called 1/f or <a href='http://en.wikipedia.org/wiki/Pink_noise'>Pink Noise</a>.
 
+<img src='https://cloud.githubusercontent.com/assets/478212/6945638/bb83e246-d860-11e4-8ae1-c1e445d63591.gif'>
+Emulator running in my office
+
+Protip: I've found this SmartApp makes the most sense when paired with a virtual switch
+
 Please feel free to mess around with this SmartApp as you will, but also keep in mind that the reason these low quality lights flicker is probably because some kind of physical damage is occuring to the bulb.  Any damage caused by this code is solely your responsibility. 
 
 License
